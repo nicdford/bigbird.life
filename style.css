@@ -1,0 +1,13 @@
+body {
+    background-color: #eee;
+    text-align: center;
+    position: relative;
+}
+
+img {
+    width: 80%;
+    max-width: 800px;
+    margin-bottom: 50px;
+    box-shadow: 15px 15px 50px #9c9c9c;
+    margin: 50px;
+}
